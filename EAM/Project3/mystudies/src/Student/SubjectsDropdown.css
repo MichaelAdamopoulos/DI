@@ -1,0 +1,112 @@
+.subject-details {
+    font-size: 20px;
+}
+
+.search-form {
+    margin-bottom: 20px;
+    margin-right: 80%;
+    font-size: 20px;
+    max-height: 75vh;
+    overflow-y: auto;
+}
+
+th {
+    color:blue;
+}
+
+strong {
+    margin-right: 100px;
+}
+
+.search-results,
+.semester-list,
+.category-list,
+.subject-list {
+    text-decoration: none;
+    list-style-type: none;
+    font-size: 20px;
+}
+
+.search-results:hover,
+.semester-list:hover,
+.category-list:hover,
+.subject-list:hover {
+   cursor: pointer;
+}
+
+.open {
+    font-weight: bold;
+}
+
+.SubjectDetails {
+    width:70%;
+    position: absolute;
+    top:25%;
+    right:10%;
+    max-height: 75vh;
+    overflow-y: auto;
+}
+
+.subject-details {
+    margin-top: 20px;
+}
+
+.subject-details table {
+    border-collapse: collapse;
+    width: 100%;
+    border: none;
+}
+
+.subject-details th,
+.subject-details td {
+    border: none;
+    padding: 8px;
+    text-align: left;
+}
+
+
+.subject-details button {
+    cursor: pointer;
+    padding: 5px 10px;
+}
+
+.clickable-text.bold {
+    font-weight: bold;
+}
+
+.button1 {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.button2 {
+    cursor: pointer;
+    background-color: red;
+    color: white;
+    border: none;
+    padding: 8px 12px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    margin: 4px 2px;
+    border-radius: 4px;
+}
+
+.secondary-elements {
+    margin-top: 10px;
+    padding-right: 20px;
+}
+
+.secondary-elements p {
+    margin-bottom: 8px;
+}

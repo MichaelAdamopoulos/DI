@@ -1,0 +1,61 @@
+.Login {
+    font-size:20px;
+    max-width: 1000px;
+    margin: 50px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.LeftSection {
+    flex: 1;
+    margin-left:80px;
+}
+
+.MyStudies {
+    color:blue
+}
+
+.LeftSection ul {
+    list-style-type: black circle;
+    padding: 0;
+}
+
+.LeftSection li {
+    margin-bottom: 10px;
+}
+
+.RightSection {
+    max-width: 300px;
+    flex: 1;
+    text-align: center;
+}
+
+.RightSection input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid blue;
+    border-radius: 5px;
+    box-sizing: border-box;
+}
+
+.LoginButton {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    background-color: blue;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.ErrorMessage {
+    color: red;
+}

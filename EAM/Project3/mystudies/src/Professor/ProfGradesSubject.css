@@ -1,0 +1,58 @@
+.subject-details-container {
+    margin-top: 20px;
+}
+
+.subject-details {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.labels {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+}
+
+.labels li {
+    flex: 1;
+    text-align: center;
+}
+
+.student-details {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    border: 1px solid #ddd;
+    margin-top: 20px;
+    margin-left: 50px;
+    width: 90%;
+}
+
+.student-details li {
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border-bottom: 1px solid #ddd;
+}
+
+
+.student-label {
+    display: flex;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    font-weight: bold;
+    width: 100%;
+}
+
+.student-label li {
+    flex: 1;
+    text-align: center;
+}
+
+.label-value {
+    text-align: center;
+}

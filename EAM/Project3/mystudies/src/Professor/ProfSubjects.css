@@ -1,0 +1,42 @@
+.subject-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.labels {
+    display: flex;
+    border: none;
+}
+
+.label {
+    flex: 1;
+    padding: 10px;
+    cursor: pointer;
+    border: none;
+}
+
+.subject {
+    display: flex;
+    flex-wrap: wrap;
+    border: none;
+}
+
+.SubjectName:hover {
+    cursor: pointer;
+}
+
+.subject>div {
+    flex: 1;
+    padding: 10px;
+    border: none;
+}
+
+.extra-details {
+    width: 100%;
+    padding: 10px;
+    border: none;
+}
+
+.extra-details p {
+    margin-right: 10px;
+}

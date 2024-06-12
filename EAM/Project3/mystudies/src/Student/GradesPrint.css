@@ -1,0 +1,21 @@
+h1 {
+    color:blue;
+}
+
+.Labels {
+    font-weight: bold;
+}
+
+.CancelLink {
+    text-decoration: none;
+    margin-left:10px;
+    
+}
+
+.CancelLink:hover {
+    text-decoration: underline;
+}
+
+.OkButton { 
+    cursor: pointer;
+}
