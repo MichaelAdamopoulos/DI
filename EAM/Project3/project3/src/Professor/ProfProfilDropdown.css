@@ -1,0 +1,52 @@
+.ProfilDropdown {
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.ProfilDropdown {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.ProfilDropdown dd {
+    margin-bottom: 10px;
+}
+
+.ProfilDropdown dd .title {
+    font-weight: bold;
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.ProfilDropdown dd .info {
+    margin-right: 10px;
+    display: inline-block;
+}
+
+.SaveEdit {
+    margin-top: 10px;
+    margin-bottom: 50px;
+}
+
+.SaveEdit:hover,
+.Cancel:hover {
+    cursor: pointer;
+}
+
+.Cancel {
+    margin-left: 5px;
+}
+
+dl {
+    margin-bottom: 20px;
+}
+
+.Headers {
+    color: blue;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+.Headers:hover {
+    cursor: pointer;
+}

@@ -1,0 +1,14 @@
+event(picks,1).
+event(drops,2).
+event(drinks,3).
+event(picks,5).
+event(drops,5).
+event(drops,7).
+event(drinks,8).
+event(leaves,10).
+event(drinks,18).
+event(leaves,19).
+event(turns_on,16).
+event(turns_off,20).
+event(turns_on,22).
+event(turns_off,24).

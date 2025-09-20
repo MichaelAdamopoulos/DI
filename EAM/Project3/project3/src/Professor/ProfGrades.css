@@ -1,0 +1,24 @@
+.labels-container {
+    display: flex;
+}
+
+.label {
+    padding: 10px;
+    font-weight: bold;
+}
+
+.subject-container {
+    display: flex;
+}
+
+.value {
+    flex: 1;
+    padding: 10px;
+    padding-right:20px;
+    text-decoration: none;
+}
+
+.value a {
+    text-decoration: none;
+    color: black;
+}
